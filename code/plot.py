@@ -1,32 +1,7 @@
 import matplotlib.pyplot as plt
-import h5py
 import numpy as np
 import matplotlib
 import math
-
-# adver_sample_query_file = '32_adver_img_query_500/32_adver_img_query_500.h5'
-# query = h5py.File(adver_sample_query_file)
-#
-# query_L = query['AdvLab'][:]
-# query_x = query['AdvImg'][:]
-# query_y = query['AdvTag'][:]
-#
-#
-# #
-# # plt.subplot(3, 2, 1)
-# # plt.plot(range(0,1380), query_y[52,:])
-# # plt.subplot(3, 2, 2)
-# # plt.plot(range(0,1380), query_y[268,:])
-# # plt.subplot(3, 2, 3)
-# # plt.plot(range(0,1380), query_y[398,:])
-# # plt.subplot(3, 2, 4)
-# # plt.plot(range(0,1380), query_y[546,:])
-# # plt.subplot(3, 2, 5)
-# # plt.plot(range(0,1380), query_y[653,:])
-# # plt.subplot(3, 2, 6)
-# plt.plot(range(0,1380), query_y[925,:])
-# plt.show()
-
 
 # 1
 x = [1,2,3,4]
