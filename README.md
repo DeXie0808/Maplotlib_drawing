@@ -1,7 +1,7 @@
 # Matplotlib 画图
 
 ## 介绍
-学习如何使用Python Matlibplot进行绘图操作
+学习如何使用Python Matplotlib进行绘图操作
 
 ## 配置
 Python 2.7 或 3.6  
